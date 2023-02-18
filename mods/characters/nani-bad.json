@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nani_obr left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nani_obr down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nani_obr up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nani_obr right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "nani_obr idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/devs/nani_obr",
+	"position": [
+		-110,
+		90
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

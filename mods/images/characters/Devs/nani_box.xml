@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nani_box.png"><SubTexture name="nani_box boxLeft0000" x="1106" y="0" width="809" height="865" frameX="0" frameY="-57" frameWidth="809" frameHeight="955" />
+<SubTexture name="nani_box boxLeft0001" x="0" y="866" width="673" height="865" frameX="0" frameY="-57" frameWidth="809" frameHeight="955" />
+<SubTexture name="nani_box boxRight0000" x="673" y="866" width="622" height="865" frameX="0" frameY="-57" frameWidth="809" frameHeight="955" />
+<SubTexture name="nani_box boxRight0001" x="1295" y="866" width="573" height="865" frameX="0" frameY="-57" frameWidth="809" frameHeight="955" />
+<SubTexture name="nani_box idle0000" x="553" y="0" width="553" height="865" frameX="0" frameY="-57" frameWidth="809" frameHeight="955" />
+<SubTexture name="nani_box idle0001" x="0" y="0" width="553" height="866" frameX="0" frameY="-57" frameWidth="809" frameHeight="955" />
+<SubTexture name="nani_box idle0002" x="1915" y="0" width="553" height="865" frameX="0" frameY="-59" frameWidth="809" frameHeight="955" />
+</TextureAtlas>

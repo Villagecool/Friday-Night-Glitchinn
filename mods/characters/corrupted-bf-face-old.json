@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				200,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "corrupted-bf-face left"
+		},
+		{
+			"offsets": [
+				0,
+				-200
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "corrupted-bf-face down"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "corrupted-bf-face up"
+		},
+		{
+			"offsets": [
+				-200,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "corrupted-bf-face right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "corrupted-bf-face idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corrupted-bf-face",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "none",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-500,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

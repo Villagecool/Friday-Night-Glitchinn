@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corrupted-bf-face.png"><SubTexture name="corrupted-bf-face idle0000" x="0" y="525" width="688" height="450" frameX="0" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face idle0001" x="0" y="1425" width="575" height="387" frameX="-75" frameY="-25" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face idle0002" x="1149" y="0" width="688" height="450" frameX="0" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face idle0003" x="1149" y="450" width="688" height="450" frameX="0" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face idle0004" x="0" y="525" width="688" height="450" frameX="0" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face idle0005" x="0" y="525" width="688" height="450" frameX="0" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face right0000" x="1837" y="450" width="525" height="425" frameX="-150" frameY="-12" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face right0001" x="0" y="975" width="681" height="450" frameX="-7" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face left0000" x="1837" y="875" width="588" height="412" frameX="0" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face left0001" x="681" y="975" width="655" height="450" frameX="0" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face down0000" x="575" y="1425" width="575" height="375" frameX="-75" frameY="-50" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face down0001" x="1837" y="0" width="688" height="450" frameX="0" frameY="0" frameWidth="688" frameHeight="450" />
+<SubTexture name="corrupted-bf-face up0000" x="0" y="0" width="575" height="525" frameX="-75" frameY="-2" frameWidth="688" frameHeight="575" />
+<SubTexture name="corrupted-bf-face up0001" x="575" y="0" width="574" height="517" frameX="-77" frameY="-14" frameWidth="688" frameHeight="570" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitch-bf.png"><SubTexture name="glitch-bf down0000" x="1402" y="455" width="411" height="453" frameX="-241" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf down0001" x="0" y="1001" width="411" height="453" frameX="-241" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf down0002" x="411" y="1001" width="492" height="453" frameX="-201" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf down0003" x="0" y="1001" width="411" height="453" frameX="-241" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf idle0000" x="903" y="1001" width="411" height="453" frameX="-241" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf idle0001" x="893" y="1454" width="411" height="444" frameX="-241" frameY="-100" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf idle0002" x="1304" y="1454" width="535" height="439" frameX="-151" frameY="-105" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf idle0003" x="1961" y="0" width="542" height="435" frameX="-151" frameY="-109" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf idle0004" x="903" y="1001" width="411" height="453" frameX="-241" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf left0000" x="1402" y="0" width="559" height="455" frameX="-93" frameY="-89" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf left0001" x="0" y="544" width="567" height="457" frameX="-85" frameY="-87" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf left0002" x="567" y="544" width="583" height="457" frameX="-69" frameY="-87" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf left0003" x="0" y="544" width="567" height="457" frameX="-85" frameY="-87" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf right0000" x="1314" y="1001" width="440" height="453" frameX="-237" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf right0001" x="0" y="1454" width="440" height="453" frameX="-241" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf right0002" x="440" y="1454" width="453" height="453" frameX="-240" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf right0003" x="0" y="1454" width="440" height="453" frameX="-241" frameY="-91" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf up0000" x="950" y="0" width="452" height="533" frameX="-241" frameY="-11" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf up0001" x="0" y="0" width="452" height="544" frameX="-241" frameY="0" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf up0002" x="452" y="0" width="498" height="544" frameX="-195" frameY="0" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf up0003" x="0" y="0" width="452" height="544" frameX="-241" frameY="0" frameWidth="693" frameHeight="544" />
+</TextureAtlas>

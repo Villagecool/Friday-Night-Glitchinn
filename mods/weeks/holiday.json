@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Holiday",
+			"corupt-bf-og",
+			[
+				246,
+				151,
+				100
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"storyName": "Glitchy Christmas",
+	"weekName": "Glitchy Christmas",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "prolouge",
+	"startUnlocked": true
+}

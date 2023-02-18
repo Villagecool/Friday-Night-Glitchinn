@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				955,
+				1065
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Funne 3D guy idle"
+		},
+		{
+			"offsets": [
+				1010,
+				1060
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "hortussy",
+			"loop": false,
+			"name": "Funne 3D guy v"
+		},
+		{
+			"offsets": [
+				1005,
+				1050
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Funne 3D guy left000"
+		},
+		{
+			"offsets": [
+				960,
+				1055
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Funne 3D guy right000"
+		},
+		{
+			"offsets": [
+				1010,
+				1050
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Funne 3D guy down000"
+		},
+		{
+			"offsets": [
+				1010,
+				1050
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Funne 3D guy up000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devs/Funne 3D guy",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-180,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitch-bf-christmas.png"><SubTexture name="glitch-bf-christmas down0000" x="1829" y="470" width="411" height="465" frameX="-241" frameY="-79" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas down0001" x="583" y="1560" width="411" height="462" frameX="-241" frameY="-82" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas down0002" x="1829" y="935" width="492" height="465" frameX="-201" frameY="-79" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas idle0000" x="1402" y="501" width="423" height="497" frameX="-241" frameY="-47" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas idle0001" x="1402" y="0" width="427" height="501" frameX="-241" frameY="-43" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas idle0002" x="0" y="1059" width="535" height="501" frameX="-151" frameY="-43" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas idle0003" x="535" y="1059" width="542" height="488" frameX="-151" frameY="-56" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas idle0004" x="1402" y="501" width="423" height="497" frameX="-241" frameY="-47" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas left0000" x="1077" y="1059" width="559" height="470" frameX="-93" frameY="-74" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas left0001" x="1829" y="0" width="567" height="470" frameX="-85" frameY="-74" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas left0002" x="0" y="1560" width="583" height="470" frameX="-69" frameY="-74" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas right0000" x="0" y="544" width="451" height="515" frameX="-237" frameY="-29" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas right0001" x="451" y="544" width="447" height="515" frameX="-241" frameY="-29" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas right0002" x="898" y="544" width="453" height="515" frameX="-240" frameY="-29" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas up0000" x="0" y="0" width="452" height="544" frameX="-241" frameY="0" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas up0001" x="452" y="0" width="452" height="544" frameX="-241" frameY="0" frameWidth="693" frameHeight="544" />
+<SubTexture name="glitch-bf-christmas up0002" x="904" y="0" width="498" height="544" frameX="-195" frameY="0" frameWidth="693" frameHeight="544" />
+</TextureAtlas>

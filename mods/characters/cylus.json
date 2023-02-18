@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				178,
+				80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cylus Idle"
+		},
+		{
+			"offsets": [
+				-17,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cylus Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cylus Down"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cylus Up"
+		},
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cylus Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devs/Cylus",
+	"position": [
+		-790,
+		-1110
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-610,
+		1070
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3
+}

@@ -1,0 +1,6 @@
+Moves Window
+
+Value 1 = X posision, speed
+Value 2 = Y posision, speed
+
+example: 200, 5

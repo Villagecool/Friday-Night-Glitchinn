@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corrupt face.png"><SubTexture name="corrupt face down0000" x="2580" y="916" width="583" height="415" frameX="0" frameY="0" frameWidth="583" frameHeight="491" />
+<SubTexture name="corrupt face down0001" x="2580" y="1331" width="583" height="415" frameX="0" frameY="-10" frameWidth="583" frameHeight="491" />
+<SubTexture name="corrupt face down0002" x="2580" y="1746" width="583" height="409" frameX="0" frameY="-25" frameWidth="583" frameHeight="484" />
+<SubTexture name="corrupt face eyes0000" x="1923" y="529" width="591" height="494" frameX="0" frameY="0" frameWidth="591" frameHeight="494" />
+<SubTexture name="corrupt face idle0000" x="1923" y="1023" width="591" height="494" frameX="0" frameY="0" frameWidth="591" frameHeight="494" />
+<SubTexture name="corrupt face idle0001" x="2580" y="494" width="591" height="422" frameX="0" frameY="-46" frameWidth="591" frameHeight="494" />
+<SubTexture name="corrupt face idle0002" x="0" y="2313" width="591" height="388" frameX="0" frameY="-81" frameWidth="591" frameHeight="494" />
+<SubTexture name="corrupt face idle0003" x="591" y="2313" width="591" height="352" frameX="0" frameY="-126" frameWidth="591" frameHeight="503" />
+<SubTexture name="corrupt face idle0004" x="1418" y="1786" width="591" height="494" frameX="0" frameY="0" frameWidth="591" frameHeight="494" />
+<SubTexture name="corrupt face idle0005" x="2580" y="0" width="591" height="494" frameX="0" frameY="0" frameWidth="591" frameHeight="494" />
+<SubTexture name="corrupt face idle0006" x="2580" y="494" width="591" height="422" frameX="0" frameY="-46" frameWidth="591" frameHeight="494" />
+<SubTexture name="corrupt face jumpscare0000" x="0" y="0" width="562" height="685" frameX="-182" frameY="-84" frameWidth="868" frameHeight="884" />
+<SubTexture name="corrupt face jumpscare0001" x="0" y="0" width="562" height="685" frameX="-162" frameY="-64" frameWidth="868" frameHeight="884" />
+<SubTexture name="corrupt face jumpscare0001" x="0" y="0" width="562" height="685" frameX="-202" frameY="-104" frameWidth="868" frameHeight="884" />
+<SubTexture name="corrupt face bluescreen0000" x="1356" y="1239" width="562" height="369" frameX="-16" frameY="-28" frameWidth="591" frameHeight="494" />
+<SubTexture name="corrupt face left0000" x="562" y="0" width="686" height="554" frameX="0" frameY="0" frameWidth="687" frameHeight="555" />
+<SubTexture name="corrupt face left0001" x="0" y="685" width="687" height="554" frameX="0" frameY="0" frameWidth="687" frameHeight="555" />
+<SubTexture name="corrupt face left0002" x="1248" y="0" width="675" height="550" frameX="0" frameY="0" frameWidth="687" frameHeight="550" />
+<SubTexture name="corrupt face right0000" x="1248" y="550" width="667" height="529" frameX="0" frameY="-1" frameWidth="667" frameHeight="531" />
+<SubTexture name="corrupt face right0001" x="709" y="1239" width="647" height="529" frameX="-20" frameY="-1" frameWidth="667" frameHeight="531" />
+<SubTexture name="corrupt face right0002" x="1923" y="0" width="657" height="529" frameX="-10" frameY="0" frameWidth="667" frameHeight="529" />
+<SubTexture name="corrupt face up0000" x="0" y="1239" width="709" height="547" frameX="0" frameY="0" frameWidth="709" frameHeight="547" />
+<SubTexture name="corrupt face up0001" x="0" y="1786" width="709" height="527" frameX="0" frameY="0" frameWidth="709" frameHeight="547" />
+<SubTexture name="corrupt face up0002" x="709" y="1786" width="709" height="527" frameX="0" frameY="0" frameWidth="709" frameHeight="547" />
+</TextureAtlas>

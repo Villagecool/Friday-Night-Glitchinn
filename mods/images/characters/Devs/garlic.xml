@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="garlic.png"><SubTexture name="garlic punch0000" x="605" y="0" width="535" height="761" frameX="-188" frameY="-145" frameWidth="888" frameHeight="927" />
+<SubTexture name="garlic punch0001" x="1140" y="0" width="536" height="761" frameX="-187" frameY="-145" frameWidth="888" frameHeight="927" />
+<SubTexture name="garlic down0000" x="0" y="0" width="605" height="859" frameX="-114" frameY="-45" frameWidth="888" frameHeight="927" />
+<SubTexture name="garlic idle0000" x="0" y="859" width="605" height="761" frameX="-114" frameY="-145" frameWidth="888" frameHeight="927" />
+<SubTexture name="garlic right0000" x="1676" y="0" width="587" height="747" frameX="-198" frameY="-167" frameWidth="888" frameHeight="927" />
+<SubTexture name="garlic left0000" x="605" y="859" width="608" height="749" frameX="-55" frameY="-158" frameWidth="888" frameHeight="927" />
+<SubTexture name="garlic up0000" x="0" y="1620" width="605" height="637" frameX="-114" frameY="-273" frameWidth="888" frameHeight="927" />
+</TextureAtlas>

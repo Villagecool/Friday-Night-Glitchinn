@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				200,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "corrupt face left"
+		},
+		{
+			"offsets": [
+				-98,
+				-140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "corrupt face down"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "corrupt face up"
+		},
+		{
+			"offsets": [
+				-200,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "corrupt face right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				240,
+				130
+			],
+			"anim": "jumpscare",
+			"fps": 24,
+			"name": "corrupt face jumpscare",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				-20
+			],
+			"anim": "bluescreen",
+			"fps": 24,
+			"name": "corrupt face bluescreen",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "corrupt face idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-100,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-eyes",
+			"indices": [],
+			"name": "corrupt face eyes"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corrupt face",
+	"position": [
+		10,
+		-90
+	],
+	"healthicon": "none",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-470,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

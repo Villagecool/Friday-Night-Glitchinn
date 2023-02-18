@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Sakura",
+			"senpai",
+			[
+				246,
+				151,
+				100
+			]
+		],
+		[
+			"Fear",
+			"senpai-2",
+			[
+				193,
+				117,
+				72
+			]
+		],
+		[
+			"Run!",
+			"senpai-3",
+			[
+				150,
+				91,
+				16
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "school",
+	"difficulties": "Normal, Hard, Glitch, Easy",
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"storyName": "All New HD Update!!!!! OMG!!!!",
+	"weekName": "The Begining",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

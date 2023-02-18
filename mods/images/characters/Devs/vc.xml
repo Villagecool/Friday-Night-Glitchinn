@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vc.png"><SubTexture name="vc down0000" x="495" y="527" width="237" height="511" frameX="-14" frameY="-23" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc down0001" x="732" y="527" width="237" height="509" frameX="-14" frameY="-25" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc idle0000" x="943" y="0" width="237" height="514" frameX="-14" frameY="-19" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc idle0001" x="1180" y="0" width="241" height="507" frameX="-12" frameY="-26" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc idle0002" x="1421" y="0" width="247" height="499" frameX="-9" frameY="-34" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc idle0003" x="943" y="0" width="237" height="514" frameX="-14" frameY="-19" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc left0000" x="0" y="527" width="247" height="512" frameX="-4" frameY="-22" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc left0001" x="247" y="527" width="248" height="512" frameX="-1" frameY="-22" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc right0000" x="474" y="0" width="234" height="517" frameX="-22" frameY="-17" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc right0001" x="708" y="0" width="235" height="517" frameX="-23" frameY="-17" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc up0000" x="237" y="0" width="237" height="524" frameX="-14" frameY="-9" frameWidth="293" frameHeight="540" />
+<SubTexture name="vc up0001" x="0" y="0" width="237" height="527" frameX="-14" frameY="-6" frameWidth="293" frameHeight="540" />
+</TextureAtlas>

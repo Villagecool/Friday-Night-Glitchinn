@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				20,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF Left Miss"
+		},
+		{
+			"offsets": [
+				-10,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF Down Miss"
+		},
+		{
+			"offsets": [
+				0,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF Up Miss"
+		},
+		{
+			"offsets": [
+				10,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sun_Is_Gone_and_my_drawing_motivation_too",
+	"position": [
+		0,
+		190
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

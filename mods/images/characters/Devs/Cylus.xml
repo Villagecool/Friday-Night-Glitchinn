@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cylus.png">
+<SubTexture name="Cylus Idle0000" x="0" y="0" width="1346" height="3100" frameX="-651" frameY="-259" frameWidth="2500" frameHeight="3500" />
+<SubTexture name="Cylus Left0000" x="4097" y="0" width="889" height="1868" frameX="-248" frameY="-247" frameWidth="1620" frameHeight="2160" />
+<SubTexture name="Cylus Right0000" x="3236" y="0" width="861" height="1873" frameX="-422" frameY="-217" frameWidth="1620" frameHeight="2160" />
+<SubTexture name="Cylus Up0000" x="2163" y="0" width="1073" height="2084" frameX="-324" frameY="-38" frameWidth="1620" frameHeight="2160" />
+<SubTexture name="Cylus Down0000" x="1346" y="0" width="817" height="2092" frameX="-336" frameY="-22" frameWidth="1620" frameHeight="2160" />
+</TextureAtlas>

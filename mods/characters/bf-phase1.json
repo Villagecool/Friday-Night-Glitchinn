@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				200
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				170
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				200
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				170
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Left0"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Down0"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Up0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Corruption_Sun_is_Gone_Boyfriend_",
+	"position": [
+		0,
+		190
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

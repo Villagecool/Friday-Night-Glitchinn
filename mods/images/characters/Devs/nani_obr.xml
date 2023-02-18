@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nani_obr.png"><SubTexture name="nani_obr up0000" x="0" y="0" width="588" height="732" frameX="-22" frameY="0" frameWidth="727" frameHeight="782" />
+<SubTexture name="nani_obr down0000" x="1656" y="0" width="608" height="268" frameX="-22" frameY="-504" frameWidth="727" frameHeight="782" />
+<SubTexture name="nani_obr left0000" x="588" y="0" width="549" height="727" frameX="-126" frameY="-27" frameWidth="727" frameHeight="782" />
+<SubTexture name="nani_obr right0000" x="1137" y="0" width="519" height="727" frameX="-19" frameY="-27" frameWidth="727" frameHeight="782" />
+<SubTexture name="nani_obr idle0000" x="1656" y="268" width="608" height="252" frameX="-22" frameY="-521" frameWidth="727" frameHeight="782" />
+<SubTexture name="nani_obr idle0001" x="608" y="732" width="608" height="482" frameX="-22" frameY="-282" frameWidth="727" frameHeight="782" />
+<SubTexture name="nani_obr idle0002" x="0" y="732" width="608" height="727" frameX="-22" frameY="-27" frameWidth="727" frameHeight="782" />
+</TextureAtlas>
